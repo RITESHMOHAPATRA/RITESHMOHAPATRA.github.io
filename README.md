@@ -1,5 +1,1 @@
-#Personal Website
-
- smsubham.github.io
-
-Live Now
+# RITESHMOHAPATRA.github.io
